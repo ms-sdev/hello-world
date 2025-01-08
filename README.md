@@ -9,12 +9,12 @@ To start using this project use the following commands:
 
 - `git clone https://github.com/moringaschool/hello-world.git`
 - `cd hello-world`
-- `atom .`
+- `atom .` (or `code .` if working from VS Code)
 
 ## License info
 MIT License
 
-Copyright (c) 2018 Moringa School
+Copyright (c) 2024 Moringa School
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
